@@ -18,6 +18,12 @@ tfoot {
     font-weight: bold;
 }
 
+@media (hover: hover) {
+  td:hover {
+    background: yellow;
+  }
+}
+
 .editorial {
     background: rgb(255, 0, 0, .25);
     padding: 10px;
